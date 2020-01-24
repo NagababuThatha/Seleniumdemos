@@ -1,0 +1,6 @@
+2020-01-03 10:14:03,289  INFO [main] log4jdemo:15 - application started successfully
+2020-01-03 10:14:03,305  WARN [main] log4jdemo:18 - check title
+2020-01-03 10:14:03,305 ERROR [main] log4jdemo:25 - incorrect page
+2020-01-03 10:15:17,449  INFO [main] log4jdemo:15 - application started successfully
+2020-01-03 10:15:17,467  WARN [main] log4jdemo:18 - check title
+2020-01-03 10:15:17,467  INFO [main] log4jdemo:21 - correct page
